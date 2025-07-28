@@ -1,0 +1,262 @@
+﻿ANNO;CODI_CONTRATTO;CODI_MACROCATEGORIA;CODI_FONDO;DESC_FONDO;CODI_NATURA;DESC_NATURA;CODI_TIPO_VOCE_SPESA;TIPO_VOCE_SPESA
+2013;ERIC;ND;26;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;ND;26;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;UNIV;ND;30;Destinazione delle Risorse;16;"Destinazioni temporaneamente allocate all'esterno del Fondo";U;UTILIZZO
+2013;ERIC;ND;26;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;ND;26;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;ND;23;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ERIC;ND;26;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REFR;ND;21;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;ND;21;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;ND;21;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;REFR;ND;6;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REFR;ND;1;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;ND;18;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;UNIV;ND;30;Destinazione delle Risorse;10;"Risorse temporaneamente allocate all'esterno del Fondo";F;FINANZIA
+2013;UNIV;ND;18;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;UNIV;ND;18;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;UNIV;ND;18;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RALN;ND;25;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RALN;ND;25;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RALN;ND;25;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;ND;9;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;ND;9;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;UNIV;ND;9;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RALN;ND;25;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RALN;ND;25;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;ND;9;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;ND;9;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESI;ND;43;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;REVA;ND;46;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REVA;ND;46;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;ND;43;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;ND;43;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RESA;ND;5;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REVA;ND;46;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;PR;28;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;PR;28;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;EPNE;ES;10;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;ES;10;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;EPNE;ES;10;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ES;10;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;PR;28;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;1F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;AFAM;AT;3;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;AFAM;AT;3;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ENAC;R2;35;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESI;ND;43;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ERIC;ND;30;Destinazione delle Risorse;16;"Destinazioni temporaneamente allocate all'esterno del Fondo";U;UTILIZZO
+2013;REFR;ND;1;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;ND;30;Destinazione delle Risorse;10;"Risorse temporaneamente allocate all'esterno del Fondo";F;FINANZIA
+2013;ERIC;ND;23;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;ND;1;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;ND;6;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;ND;6;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;ND;1;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REFR;ND;1;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;UNIV;ND;18;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SCLA;CO;3;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SCLA;CO;3;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;SCLA;CO;3;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;MNST;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;MNST;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SCLA;CO;3;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;AFAM;AT;3;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ENAC;R1;27;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ENAC;R1;27;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ENAC;R2;35;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ENAC;R2;35;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;PCMD;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;MNST;1F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;AGFI;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;PR;28;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AGFI;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AGFI;1F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;CDIP;CD;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CDIP;CD;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ENAC;R1;27;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;CDIP;CD;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ENAC;R1;27;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AFAM;AT;3;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ENAC;R2;35;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;AGFI;ND;38;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AGFI;ND;38;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UCAM;ND;11;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ENAC;ND;14;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ENAC;ND;14;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ENAC;ND;14;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ENAC;ND;14;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;UCAM;ND;11;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UCAM;ND;11;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;UCAM;ND;11;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;AGFI;ND;38;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;VVFF;ND;15;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;VVFF;ND;15;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;ND;30;Destinazione delle Risorse;16;"Destinazioni temporaneamente allocate all'esterno del Fondo";U;UTILIZZO
+2013;PCMD;ND;19;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;PCMD;ND;19;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;PCMD;ND;30;Destinazione delle Risorse;10;"Risorse temporaneamente allocate all'esterno del Fondo";F;FINANZIA
+2013;VVFF;ND;15;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RALN;NF;8;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;VVFF;ND;15;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;AGFI;ND;38;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;ND;19;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;ND;15;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;ND;15;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ENAC;ND;14;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;ND;15;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;ND;15;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RALN;NF;8;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;AFAM;NF;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SCLA;NF;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;SCLA;NF;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SCLA;NF;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AFAM;NF;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;UNIV;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;2F;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ERIC;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;2F;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ERIC;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;UNIV;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;UNIV;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ENAC;NF;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ENAC;NF;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ENAC;NF;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ENAC;NF;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ENAC;NF;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESI;NF;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REFR;NF;40;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;NF;41;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;REFR;NF;41;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;NF;40;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;NF;40;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REFR;NF;41;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;NF;41;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;NF;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RESI;NF;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REFR;NF;41;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESI;NF;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RALN;NF;8;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RALN;NF;8;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RALN;NF;8;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REVA;ND;46;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;REVA;ND;46;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;ND;43;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;ND;48;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;ND;21;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REFR;ND;21;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REVA;ND;42;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REVA;ND;42;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;REVA;ND;42;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;REVA;ND;42;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RESA;ND;22;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESA;ND;5;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RESA;ND;22;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESA;ND;22;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RESA;ND;22;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESA;ND;37;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESA;ND;37;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RESA;ND;37;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;MNST;ND;30;Destinazione delle Risorse;16;"Destinazioni temporaneamente allocate all'esterno del Fondo";U;UTILIZZO
+2013;RESA;ND;37;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;ND;30;Destinazione delle Risorse;10;"Risorse temporaneamente allocate all'esterno del Fondo";F;FINANZIA
+2013;EPNE;ND;16;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ND;4;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ND;30;Destinazione delle Risorse;16;"Destinazioni temporaneamente allocate all'esterno del Fondo";U;UTILIZZO
+2013;SSNA;ND;17;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ND;4;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ND;4;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ND;4;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;ND;30;Destinazione delle Risorse;10;"Risorse temporaneamente allocate all'esterno del Fondo";F;FINANZIA
+2013;EPNE;ND;16;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;MNST;ND;15;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;RESI;ND;48;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;RESI;ND;48;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;RESI;ND;48;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;RESI;ND;48;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ND;17;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;EPNE;ND;16;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ND;16;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ND;16;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ND;4;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;ND;15;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ND;12;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ND;12;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ND;17;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ND;17;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ND;12;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ND;12;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;MNST;ND;15;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;ND;15;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;MNST;ND;15;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SCLA;CO;3;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;EPNE;ME;45;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;ME;45;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ME;45;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ME;2;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ME;2;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ME;45;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;ME;45;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;ERIC;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;1F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;EPNE;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;1F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;1F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;1F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;SSNA;NM;36;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ME;29;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ME;29;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ME;36;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;ME;36;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ME;36;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ME;36;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;ME;29;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ME;29;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ME;2;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;ME;2;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;SSNA;ME;2;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;NM;2;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;NM;20;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;NM;20;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;NM;36;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;NM;36;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;EPNE;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;NM;36;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;NM;20;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;NM;2;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;SSNA;NM;2;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;SSNA;NM;2;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;SSNA;NM;2;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;SSNA;NM;20;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;AGFI;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;AGFI;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;AGFI;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;RT;23;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;RT;23;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ERIC;RT;7;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;ERIC;RT;7;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;ERIC;RT;7;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;AGFI;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;RT;7;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;ERIC;RT;7;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;PCMD;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;PCMD;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;CNEL;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;EPNE;2F;44;Destinazione delle Risorse;9;Risorse variabili;F;FINANZIA
+2013;MNST;2F;44;Destinazione delle Risorse;15;Destinazioni non contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;EPNE;2F;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO
+2013;EPNE;2F;44;Destinazione delle Risorse;20;Destinazioni contrattate specificamente dal CI di rif.to;U;UTILIZZO
+2013;MNST;2F;44;Destinazione delle Risorse;7;Risorse fisse aventi carattere di certezza e stabilità;F;FINANZIA
+2013;MNST;2F;44;Destinazione delle Risorse;21;(eventuali) Destinazioni ancora da regolare;U;UTILIZZO

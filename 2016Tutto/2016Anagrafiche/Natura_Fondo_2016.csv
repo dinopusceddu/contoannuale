@@ -1,0 +1,271 @@
+ANNO,CODI_CONTRATTO,CODI_MACROCATEGORIA,CODI_FONDO,DESC_FONDO,CODI_NATURA,DESC_NATURA,CODI_TIPO_VOCE_SPESA,TIPO_VOCE_SPESA
+2016,AFAM,AT,3,Fondo dell'istituzione scolastica,9,Risorse variabili,F,FINANZIA
+2016,AFAM,AT,3,Fondo dell'istituzione scolastica,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,AFAM,AT,3,Fondo dell'istituzione scolastica,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,AFAM,AT,3,Fondo dell'istituzione scolastica,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,AFAM,NF,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,AFAM,NF,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,AFAM,NF,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,AFAM,NF,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,AGFI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,AGFI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,AGFI,ND,38,Fondo politiche di sviluppo risorse umane e produttività,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,AGFI,ND,38,Fondo politiche di sviluppo risorse umane e produttività,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,AGFI,ND,38,Fondo politiche di sviluppo risorse umane e produttività,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,AGFI,ND,38,Fondo politiche di sviluppo risorse umane e produttività,9,Risorse variabili,F,FINANZIA
+2016,AGFI,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,AGFI,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,AGFI,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,AGFI,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,AGFI,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,AGFI,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,AGFI,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,AGFI,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ASSI,ND,23,Risorse attività prestazioni committenti esterni,9,Risorse variabili,F,FINANZIA
+2016,ASSI,ND,23,Risorse attività prestazioni committenti esterni,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ASSI,ND,26,Risorse per il trattamento accessorio,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ASSI,ND,26,Risorse per il trattamento accessorio,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ASSI,ND,26,Risorse per il trattamento accessorio,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ASSI,ND,26,Risorse per il trattamento accessorio,9,Risorse variabili,F,FINANZIA
+2016,ASSI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,ASSI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,ASSI,RT,23,Risorse attività prestazioni committenti esterni,9,Risorse variabili,F,FINANZIA
+2016,ASSI,RT,23,Risorse attività prestazioni committenti esterni,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ASSI,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ASSI,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ASSI,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ASSI,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,9,Risorse variabili,F,FINANZIA
+2016,ASSI,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,ASSI,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ASSI,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ASSI,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ASSI,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ASSI,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ASSI,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,ASSI,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CDIP,CD,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,CDIP,CD,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,CDIP,CD,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,CDIP,CD,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CNEL,ND,15,Fondo Unico di Amministrazione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,CNEL,ND,15,Fondo Unico di Amministrazione,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CNEL,ND,15,Fondo Unico di Amministrazione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,CNEL,ND,15,Fondo Unico di Amministrazione,9,Risorse variabili,F,FINANZIA
+2016,CNEL,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,CNEL,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,CNEL,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,CNEL,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CNEL,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,CNEL,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CNEL,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,CNEL,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,CPRE,CP,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,CPRE,CP,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,CPRE,CP,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,CPRE,CP,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ENAC,ND,14,Risorse sviluppo personale e produttività,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ENAC,ND,14,Risorse sviluppo personale e produttività,9,Risorse variabili,F,FINANZIA
+2016,ENAC,ND,14,Risorse sviluppo personale e produttività,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ENAC,ND,14,Risorse sviluppo personale e produttività,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ENAC,NF,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ENAC,NF,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ENAC,NF,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,ENAC,NF,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ENAC,R1,27,Risorse politiche di sviluppo professionisti I qualifica,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ENAC,R1,27,Risorse politiche di sviluppo professionisti I qualifica,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ENAC,R1,27,Risorse politiche di sviluppo professionisti I qualifica,9,Risorse variabili,F,FINANZIA
+2016,ENAC,R1,27,Risorse politiche di sviluppo professionisti I qualifica,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ENAC,R2,35,Risorse politiche di sviluppo professionisti II qualifica,9,Risorse variabili,F,FINANZIA
+2016,ENAC,R2,35,Risorse politiche di sviluppo professionisti II qualifica,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ENAC,R2,35,Risorse politiche di sviluppo professionisti II qualifica,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ENAC,R2,35,Risorse politiche di sviluppo professionisti II qualifica,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,ES,10,Fondo trattamenti accessori personale ad esaurimento,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,ES,10,Fondo trattamenti accessori personale ad esaurimento,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,ES,10,Fondo trattamenti accessori personale ad esaurimento,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,EPNE,ES,10,Fondo trattamenti accessori personale ad esaurimento,9,Risorse variabili,F,FINANZIA
+2016,EPNE,ME,45,Fondo Area Medica,9,Risorse variabili,F,FINANZIA
+2016,EPNE,ME,45,Fondo Area Medica,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,ME,45,Fondo Area Medica,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,ME,45,Fondo Area Medica,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,EPNE,ND,16,Fondo trattamenti accessori per il personale delle aree,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,EPNE,ND,16,Fondo trattamenti accessori per il personale delle aree,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,ND,16,Fondo trattamenti accessori per il personale delle aree,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,ND,16,Fondo trattamenti accessori per il personale delle aree,9,Risorse variabili,F,FINANZIA
+2016,EPNE,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,EPNE,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,EPNE,PR,28,Fondo Area dei Professionisti,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,PR,28,Fondo Area dei Professionisti,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,PR,28,Fondo Area dei Professionisti,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,EPNE,PR,28,Fondo Area dei Professionisti,9,Risorse variabili,F,FINANZIA
+2016,EPNE,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,EPNE,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,EPNE,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,EPNE,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,EPNE,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,EPNE,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ERIC,ND,23,Risorse attività prestazioni committenti esterni,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,ND,23,Risorse attività prestazioni committenti esterni,9,Risorse variabili,F,FINANZIA
+2016,ERIC,ND,26,Risorse per il trattamento accessorio,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,ND,26,Risorse per il trattamento accessorio,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ERIC,ND,26,Risorse per il trattamento accessorio,9,Risorse variabili,F,FINANZIA
+2016,ERIC,ND,26,Risorse per il trattamento accessorio,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ERIC,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,ERIC,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,ERIC,RT,23,Risorse attività prestazioni committenti esterni,9,Risorse variabili,F,FINANZIA
+2016,ERIC,RT,23,Risorse attività prestazioni committenti esterni,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ERIC,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ERIC,RT,7,Risorse trattamento accessorio e valorizzazione profess.le,9,Risorse variabili,F,FINANZIA
+2016,ERIC,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,ERIC,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ERIC,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,ERIC,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,ERIC,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,ERIC,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,ERIC,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,MNST,ND,15,Fondo Unico di Amministrazione,9,Risorse variabili,F,FINANZIA
+2016,MNST,ND,15,Fondo Unico di Amministrazione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,MNST,ND,15,Fondo Unico di Amministrazione,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,MNST,ND,15,Fondo Unico di Amministrazione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,MNST,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,MNST,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,MNST,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,MNST,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,MNST,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,MNST,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,MNST,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,MNST,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,MNST,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,MNST,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,PCMD,ND,19,Fondo Unico della Presidenza,9,Risorse variabili,F,FINANZIA
+2016,PCMD,ND,19,Fondo Unico della Presidenza,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,PCMD,ND,19,Fondo Unico della Presidenza,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,PCMD,ND,19,Fondo Unico della Presidenza,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,PCMD,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,PCMD,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,PCMD,1F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,PCMD,1F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,PCMD,1F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,PCMD,1F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,PCMD,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,PCMD,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,PCMD,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,PCMD,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RALN,ND,25,Fondo unico per le risorse decentrate,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RALN,ND,25,Fondo unico per le risorse decentrate,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RALN,ND,25,Fondo unico per le risorse decentrate,9,Risorse variabili,F,FINANZIA
+2016,RALN,ND,25,Fondo unico per le risorse decentrate,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RALN,NF,8,Risorse per la retribuzione di posizione e di risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RALN,NF,8,Risorse per la retribuzione di posizione e di risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RALN,NF,8,Risorse per la retribuzione di posizione e di risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RALN,NF,8,Risorse per la retribuzione di posizione e di risultato,9,Risorse variabili,F,FINANZIA
+2016,REFR,ND,1,Fondo contratt. integrativa forme ass.ve e serv. sociali,9,Risorse variabili,F,FINANZIA
+2016,REFR,ND,1,Fondo contratt. integrativa forme ass.ve e serv. sociali,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REFR,ND,1,Fondo contratt. integrativa forme ass.ve e serv. sociali,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REFR,ND,1,Fondo contratt. integrativa forme ass.ve e serv. sociali,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REFR,ND,21,Fondo contrattazione integrativa personale Enti locali,9,Risorse variabili,F,FINANZIA
+2016,REFR,ND,21,Fondo contrattazione integrativa personale Enti locali,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REFR,ND,21,Fondo contrattazione integrativa personale Enti locali,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REFR,ND,21,Fondo contrattazione integrativa personale Enti locali,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REFR,ND,6,Fondo contrattazione integrativa personale regionale,9,Risorse variabili,F,FINANZIA
+2016,REFR,ND,6,Fondo contrattazione integrativa personale regionale,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REFR,ND,6,Fondo contrattazione integrativa personale regionale,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REFR,ND,6,Fondo contrattazione integrativa personale regionale,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REFR,NF,40,Fondo contrattazione integrativa dirigenti della Regione,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REFR,NF,40,Fondo contrattazione integrativa dirigenti della Regione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REFR,NF,40,Fondo contrattazione integrativa dirigenti della Regione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REFR,NF,40,Fondo contrattazione integrativa dirigenti della Regione,9,Risorse variabili,F,FINANZIA
+2016,REFR,NF,41,Fondo contrattazione integrativa dirigenti Enti Locali,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REFR,NF,41,Fondo contrattazione integrativa dirigenti Enti Locali,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REFR,NF,41,Fondo contrattazione integrativa dirigenti Enti Locali,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REFR,NF,41,Fondo contrattazione integrativa dirigenti Enti Locali,9,Risorse variabili,F,FINANZIA
+2016,RESA,ND,22,Fondo per la retribuzione di posizione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESA,ND,22,Fondo per la retribuzione di posizione,9,Risorse variabili,F,FINANZIA
+2016,RESA,ND,22,Fondo per la retribuzione di posizione,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESA,ND,22,Fondo per la retribuzione di posizione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RESA,ND,37,Fondo per la retribuzione di rendimento,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESA,ND,37,Fondo per la retribuzione di rendimento,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESA,ND,37,Fondo per la retribuzione di rendimento,9,Risorse variabili,F,FINANZIA
+2016,RESA,ND,37,Fondo per la retribuzione di rendimento,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RESA,ND,5,Fondo per le progressioni professionali,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RESA,ND,5,Fondo per le progressioni professionali,9,Risorse variabili,F,FINANZIA
+2016,RESA,ND,5,Fondo per le progressioni professionali,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESA,ND,5,Fondo per le progressioni professionali,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,RESI,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,RESI,ND,43,Fondo di Amm.ne per il Miglioramento delle Prestazioni,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RESI,ND,43,Fondo di Amm.ne per il Miglioramento delle Prestazioni,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESI,ND,43,Fondo di Amm.ne per il Miglioramento delle Prestazioni,9,Risorse variabili,F,FINANZIA
+2016,RESI,ND,43,Fondo di Amm.ne per il Miglioramento delle Prestazioni,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESI,ND,48,FAMP personale tempo determinato,9,Risorse variabili,F,FINANZIA
+2016,RESI,ND,48,FAMP personale tempo determinato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,RESI,ND,48,FAMP personale tempo determinato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESI,ND,48,FAMP personale tempo determinato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESI,NF,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,RESI,NF,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,RESI,NF,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,RESI,NF,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REVA,ND,42,Fondo per la progressione orizzontale nella quarta posizione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,REVA,ND,42,Fondo per la progressione orizzontale nella quarta posizione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REVA,ND,46,Fondo Unico Aziendale (FUA),7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,REVA,ND,46,Fondo Unico Aziendale (FUA),9,Risorse variabili,F,FINANZIA
+2016,REVA,ND,46,Fondo Unico Aziendale (FUA),42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,REVA,ND,46,Fondo Unico Aziendale (FUA),41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SCLA,CO,3,Fondo dell'istituzione scolastica,9,Risorse variabili,F,FINANZIA
+2016,SCLA,CO,3,Fondo dell'istituzione scolastica,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SCLA,CO,3,Fondo dell'istituzione scolastica,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,SCLA,CO,3,Fondo dell'istituzione scolastica,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SCLA,NF,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SCLA,NF,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,SCLA,NF,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SCLA,NF,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,SSNA,ME,2,Fondo retrib. risultato e qualità prestazione individuale,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ME,2,Fondo retrib. risultato e qualità prestazione individuale,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,SSNA,ME,2,Fondo retrib. risultato e qualità prestazione individuale,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,ME,2,Fondo retrib. risultato e qualità prestazione individuale,9,Risorse variabili,F,FINANZIA
+2016,SSNA,ME,29,Fondo specificità medica, retrib. posizione, equiparazione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,ME,29,Fondo specificità medica, retrib. posizione, equiparazione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ME,36,Fondo trattamento accessorio condizioni di lavoro,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,ME,36,Fondo trattamento accessorio condizioni di lavoro,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ND,12,Fondo straord. e partic. condiz. disagio peric. o danno,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ND,12,Fondo straord. e partic. condiz. disagio peric. o danno,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,ND,17,Fondo fasce, pos. org., ex ind. qualif. e ind. prof.le spec.,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,ND,17,Fondo fasce, pos. org., ex ind. qualif. e ind. prof.le spec.,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ND,4,Fondo prod. coll. miglior. serv. e premio qual. prest. ind.,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,ND,4,Fondo prod. coll. miglior. serv. e premio qual. prest. ind.,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,SSNA,ND,4,Fondo prod. coll. miglior. serv. e premio qual. prest. ind.,9,Risorse variabili,F,FINANZIA
+2016,SSNA,ND,4,Fondo prod. coll. miglior. serv. e premio qual. prest. ind.,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,NM,2,Fondo retrib. risultato e qualità prestazione individuale,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,NM,2,Fondo retrib. risultato e qualità prestazione individuale,9,Risorse variabili,F,FINANZIA
+2016,SSNA,NM,2,Fondo retrib. risultato e qualità prestazione individuale,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,SSNA,NM,2,Fondo retrib. risultato e qualità prestazione individuale,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,NM,20,Fondo retrib. posizione, equiparazione, specifico tratt.,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,NM,20,Fondo retrib. posizione, equiparazione, specifico tratt.,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,SSNA,NM,36,Fondo trattamento accessorio condizioni di lavoro,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,SSNA,NM,36,Fondo trattamento accessorio condizioni di lavoro,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,UCAM,ND,11,Risorse per le politiche del personale e per la produttività,9,Risorse variabili,F,FINANZIA
+2016,UCAM,ND,11,Risorse per le politiche del personale e per la produttività,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,UCAM,ND,11,Risorse per le politiche del personale e per la produttività,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,UCAM,ND,11,Risorse per le politiche del personale e per la produttività,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,UNIV,ND,18,Fondo per la retribuzione di posizione e di risultato EP,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,UNIV,ND,18,Fondo per la retribuzione di posizione e di risultato EP,9,Risorse variabili,F,FINANZIA
+2016,UNIV,ND,18,Fondo per la retribuzione di posizione e di risultato EP,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,UNIV,ND,18,Fondo per la retribuzione di posizione e di risultato EP,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,UNIV,ND,30,Poste temporaneamente allocate all'esterno del Fondo,10,Risorse temporaneamente allocate all'esterno del Fondo,F,FINANZIA
+2016,UNIV,ND,30,Poste temporaneamente allocate all'esterno del Fondo,16,Destinazioni temporaneamente allocate all'esterno del Fondo,U,UTILIZZO
+2016,UNIV,ND,9,Fondo progressioni econ. e produtt. collettiva e individuale,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,UNIV,ND,9,Fondo progressioni econ. e produtt. collettiva e individuale,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,UNIV,ND,9,Fondo progressioni econ. e produtt. collettiva e individuale,9,Risorse variabili,F,FINANZIA
+2016,UNIV,ND,9,Fondo progressioni econ. e produtt. collettiva e individuale,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,UNIV,2F,44,Fondo retribuzione di posizione e risultato,9,Risorse variabili,F,FINANZIA
+2016,UNIV,2F,44,Fondo retribuzione di posizione e risultato,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
+2016,UNIV,2F,44,Fondo retribuzione di posizione e risultato,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,UNIV,2F,44,Fondo retribuzione di posizione e risultato,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,VVFF,ND,15,Fondo Unico di Amministrazione,9,Risorse variabili,F,FINANZIA
+2016,VVFF,ND,15,Fondo Unico di Amministrazione,41,Destinazioni erogate a valere su risorse fisse,U,UTILIZZO
+2016,VVFF,ND,15,Fondo Unico di Amministrazione,42,Destinazioni erogate a valere su risorse variabili,U,UTILIZZO
+2016,VVFF,ND,15,Fondo Unico di Amministrazione,7,Risorse fisse aventi carattere di certezza e stabilità,F,FINANZIA
